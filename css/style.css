@@ -1,0 +1,91 @@
+.top {
+    
+background-color: #C8B6E2;
+text-align: center;
+padding-top: 20px;
+width: 106%;
+
+}
+.middle-container
+{
+    background-color: #E5E0FF;
+    margin-top: -20px;
+    height: 950px;
+    width: 106%;
+
+}
+.bottom-container
+{
+    background-color: #7F669D;
+    margin-top: px;
+width: 106%;
+    
+}
+
+
+body{
+
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+h1{
+    margin: 0;
+    font-size: 3em;
+}
+h2{
+    font-size: 2.2em;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    left: 30%;
+
+}
+.top-cloud
+{
+    position: relative;
+ left: 250px;
+}
+.mineimg{
+    border-radius: 100%;
+    
+  
+}
+.JSSTU
+{
+    
+  
+    display: inline-block;
+    position: absolute;
+    font-size: 18px;
+   
+}
+.GGPS
+{
+    
+  
+    display: inline-block;
+    position: absolute;
+    left: 580px;
+    font-size: 18px;
+ 
+   
+}
+.DAV
+{
+    
+  
+    display: inline-block;
+    position: absolute;
+    right: 8%;
+    font-size: 18px;
+}
+
+.contact-me
+{
+    margin-top: 500px;
+}
+   
